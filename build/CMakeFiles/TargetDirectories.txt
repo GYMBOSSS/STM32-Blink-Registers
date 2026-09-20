@@ -1,0 +1,3 @@
+C:/stm/stm32-blink-registers/build/CMakeFiles/blink_registers.dir
+C:/stm/stm32-blink-registers/build/CMakeFiles/edit_cache.dir
+C:/stm/stm32-blink-registers/build/CMakeFiles/rebuild_cache.dir
